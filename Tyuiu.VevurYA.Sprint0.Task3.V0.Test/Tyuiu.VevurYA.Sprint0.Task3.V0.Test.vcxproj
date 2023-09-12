@@ -167,6 +167,11 @@
   <ItemGroup>
     <ClInclude Include="pch.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.VevurYA.Sprint0.Task3.V0\Tyuiu.VevurYA.Sprint0.Task3.V0.vcxproj">
+      <Project>{054eb985-bf68-48d1-a84c-aa3affdf1340}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

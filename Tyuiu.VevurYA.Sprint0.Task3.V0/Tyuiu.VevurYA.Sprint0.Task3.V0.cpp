@@ -2,11 +2,16 @@
 //
 
 #include <iostream>
+#include "../Tyuiu.VevurYA.Sprint0.Task3.V0.Lib/Tyuiu.VevurYA.Sprint0.Task3.V0.Lib.cpp"
 using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n";
+    ISprint0Task3* date = new Service();
+    cout << "VevurYA\n";
+    cout << "P = a+b+c\n";
+    cout << "Rezult = " << date->SummV3(10, 8, 7);
+    cout << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

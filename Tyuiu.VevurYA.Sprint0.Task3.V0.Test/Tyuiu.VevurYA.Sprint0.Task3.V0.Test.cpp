@@ -12,6 +12,19 @@ namespace UnitTestTask3
 		
 		TEST_METHOD(TestMethod1)
 		{
+			// Init
+			ISprint0Task3* date = new Service();
+			int a = 3;
+			int b = 4;
+			int c = 5;
+			int d;
+
+			// Run
+			d = date->SummV3(a, b, c);
+
+			// Valid 
+			Assert::AreEqual(12, d);
+
 		}
 	};
 }
