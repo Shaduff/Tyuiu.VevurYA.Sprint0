@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{27432282
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.VevyurYA.Sprint0.Task0", "Tyuiu.VevyurYA.Sprint0.Task0\Tyuiu.VevyurYA.Sprint0.Task0.vcxproj", "{9EBFC86E-2941-430A-BEB8-A27C6AC61248}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{1C108801-FB09-43DA-A3A9-6D523DAA65CF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.VevurYA.Sprint0.Task1.V0", "Tyuiu.VevurYA.Sprint0.Task1.V0\Tyuiu.VevurYA.Sprint0.Task1.V0.vcxproj", "{77266ECC-88FC-41E9-872B-B8E548EAC195}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +27,21 @@ Global
 		{9EBFC86E-2941-430A-BEB8-A27C6AC61248}.Release|x64.Build.0 = Release|x64
 		{9EBFC86E-2941-430A-BEB8-A27C6AC61248}.Release|x86.ActiveCfg = Release|Win32
 		{9EBFC86E-2941-430A-BEB8-A27C6AC61248}.Release|x86.Build.0 = Release|Win32
+		{77266ECC-88FC-41E9-872B-B8E548EAC195}.Debug|x64.ActiveCfg = Debug|x64
+		{77266ECC-88FC-41E9-872B-B8E548EAC195}.Debug|x64.Build.0 = Debug|x64
+		{77266ECC-88FC-41E9-872B-B8E548EAC195}.Debug|x86.ActiveCfg = Debug|Win32
+		{77266ECC-88FC-41E9-872B-B8E548EAC195}.Debug|x86.Build.0 = Debug|Win32
+		{77266ECC-88FC-41E9-872B-B8E548EAC195}.Release|x64.ActiveCfg = Release|x64
+		{77266ECC-88FC-41E9-872B-B8E548EAC195}.Release|x64.Build.0 = Release|x64
+		{77266ECC-88FC-41E9-872B-B8E548EAC195}.Release|x86.ActiveCfg = Release|Win32
+		{77266ECC-88FC-41E9-872B-B8E548EAC195}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9EBFC86E-2941-430A-BEB8-A27C6AC61248} = {27432282-9D2E-4519-9DD7-DD5F1B25CFE1}
+		{77266ECC-88FC-41E9-872B-B8E548EAC195} = {1C108801-FB09-43DA-A3A9-6D523DAA65CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2A088B6C-D53C-4A06-98C5-0B161E2CF27B}
