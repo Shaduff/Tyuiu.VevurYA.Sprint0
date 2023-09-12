@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.VevurYA.Sprint0.Task2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.VevurYA.Sprint0.Task2.V0.Test", "Tyuiu.VevurYA.Sprint0.Task2.V0.Test\Tyuiu.VevurYA.Sprint0.Task2.V0.Test.vcxproj", "{37D4B237-81AE-4854-8FA7-8658FC0B2B67}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{15BE2C6C-D619-4B2C-B1D7-2FCF969A0365}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

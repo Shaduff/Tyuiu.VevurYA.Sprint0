@@ -151,6 +151,11 @@
     </ClCompile>
     <ClCompile Include="Tyuiu.VevurYA.Sprint0.Task2.V0.Lib.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.VevurYA.Sprint0.Task2.V0.Test\Tyuiu.VevurYA.Sprint0.Task2.V0.Test.vcxproj">
+      <Project>{37d4b237-81ae-4854-8fa7-8658fc0b2b67}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
