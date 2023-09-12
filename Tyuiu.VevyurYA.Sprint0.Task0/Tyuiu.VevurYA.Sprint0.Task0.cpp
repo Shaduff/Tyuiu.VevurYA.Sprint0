@@ -1,4 +1,4 @@
-// Tyuiu.VevyurYA.Sprint0.Task0.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Tyuiu.VevurYA.Sprint0.Task0.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>

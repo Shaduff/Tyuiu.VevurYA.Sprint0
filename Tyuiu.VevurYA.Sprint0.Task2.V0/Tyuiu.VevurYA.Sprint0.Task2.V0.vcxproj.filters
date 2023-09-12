@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Tyuiu.VevurYA.Sprint0.Task0.cpp">
+    <ClCompile Include="Tyuiu.VevurYA.Sprint0.Task2.V0.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
