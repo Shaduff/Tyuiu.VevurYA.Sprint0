@@ -4,9 +4,9 @@
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
-namespace UnitTest1
+namespace UnitTestTask2
 {
-	TEST_CLASS(UnitTest1)
+	TEST_CLASS(UnitTestTask2)
 	{
 	public:
 		

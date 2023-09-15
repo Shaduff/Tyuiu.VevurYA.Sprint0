@@ -1,21 +1,11 @@
-// Tyuiu.VevurYA.Sprint0.Task1.V0.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Tyuiu.VevurYA.Sprint0.Task5.V0.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
-using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "Russian");
-    cout << "Hello World!\n";
-    cout << "Введите ФИО: ";
-    string name;
-    cin >> name;
-    int age;
-    cin >> age;
-    cout << "Возраст равен: " << age;
-
-    return 0;
+    std::cout << "Hello World!\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
