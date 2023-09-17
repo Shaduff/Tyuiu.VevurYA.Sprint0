@@ -23,7 +23,7 @@ int main()
         system("CLS");
         stdName();
         float a = 0, b = 0, c = 0;
-        char qst;
+        char qst = ' ';
         cout << "¬ведите номер задачи: "; cin >> qst;
         system("CLS");
 
