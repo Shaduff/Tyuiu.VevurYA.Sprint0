@@ -7,6 +7,7 @@
 
 // TODO: This is an example of a library function
 
+
 class ServiceV1 : public ISprint0Task4
 {
 	virtual int Calculate(int a, int b, int c, int d) override
