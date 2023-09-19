@@ -12,6 +12,7 @@ int main()
 	while (true)
 	{
 		system("CLS");
+		cout << "Vevur\t" << "Yan\t" << "Andreevich\n";
 		char qst = ' ';
 		cout << "¬ведите номер варианта: "; cin >> qst;
 		system("CLS");

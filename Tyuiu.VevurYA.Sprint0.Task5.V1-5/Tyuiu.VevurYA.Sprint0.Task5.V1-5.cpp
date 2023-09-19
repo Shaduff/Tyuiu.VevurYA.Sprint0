@@ -9,7 +9,7 @@ using namespace std;
 
 void stdName()
 {
-    cout << "Vevur\a\t" << "Yan\t" << "ISTb-22-1\n" << endl;
+    cout << "Vevur\t" << "Yan\t" << "Andreevich\n";
 }
 
 int main()
